@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2020/11/28/after-about-km.html",
+				
+				"content_html": "<p>After about 500km on my Altra One 3’s, I tried a bunch of new models and settled on Topo Magnifly 3. Love them; zero drop with just enough padding. New Altra misses the mark and I couldn’t get past the exaggerated padding of Hoka.</p>\n",
+				"content_text": "After about 500km on my Altra One 3’s, I tried a bunch of new models and settled on Topo Magnifly 3. Love them; zero drop with just enough padding. New Altra misses the mark and I couldn’t get past the exaggerated padding of Hoka. \n",
+				"date_published": "2020-11-28T20:25:01+09:00",
+				"url": "https://mikro5.cogley.info/2020/11/28/after-about-km.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2020/11/19/if-youre-in.html",
+				
+				"content_html": "<p>If you&rsquo;re in Japan, MyMizu (<a href=\"https://www.mymizu.co/\">https://www.mymizu.co/</a>) is an interesting app that lets you find and share places such as parks, to refill your water bottle.</p>\n\n<p>現在日本だけらしいけど、MyMizuって、公園など水筒レフィルできる場所を地図で見せてくれる、共有させてくれるアプリで、面白い・役に立つ物だ。</p>\n",
+				"content_text": "If you're in Japan, MyMizu (https://www.mymizu.co/) is an interesting app that lets you find and share places such as parks, to refill your water bottle.\n\n現在日本だけらしいけど、MyMizuって、公園など水筒レフィルできる場所を地図で見せてくれる、共有させてくれるアプリで、面白い・役に立つ物だ。\n",
+				"date_published": "2020-11-19T10:01:09+09:00",
+				"url": "https://mikro5.cogley.info/2020/11/19/if-youre-in.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2020/11/16/if-you-use.html",
+				
+				"content_html": "<p>If you use <code>brew</code>, upgrading to MacOS 11.0.1 Big Sur results in errors regarding &ldquo;CLT&rdquo; (Xcode&rsquo;s Command Line Tools), with commands like <code>brew upgrade</code>. Fix this situation by deleting and reinstalling CLT. <a href=\"https://logr.cogley.info/2020/11/15/1605445406/\">https://logr.cogley.info/2020/11/15/1605445406/</a></p>\n",
+				"content_text": "If you use `brew`, upgrading to MacOS 11.0.1 Big Sur results in errors regarding \"CLT\" (Xcode's Command Line Tools), with commands like `brew upgrade`. Fix this situation by deleting and reinstalling CLT. https://logr.cogley.info/2020/11/15/1605445406/\n",
+				"date_published": "2020-11-16T08:42:12+09:00",
+				"url": "https://mikro5.cogley.info/2020/11/16/if-you-use.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2020/11/16/macos-big-sur.html",
+				
+				"content_html": "<p>MacOS 11.0.1 Big Sur sure does like rounded corners. As long as they stay away from skeuomorphism, I&rsquo;m ok with it. 😏</p>\n",
+				"content_text": "MacOS 11.0.1 Big Sur sure does like rounded corners. As long as they stay away from skeuomorphism, I'm ok with it. 😏\n",
+				"date_published": "2020-11-16T08:36:15+09:00",
+				"url": "https://mikro5.cogley.info/2020/11/16/macos-big-sur.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2020/11/14/tried-apples-maps.html",
+				
+				"content_html": "<p>Tried Apple&rsquo;s Maps on Big Sur, specifically the bike route planning feature, but it failed due to a server being down. 🤪</p>\n",
+				"content_text": "Tried Apple's Maps on Big Sur, specifically the bike route planning feature, but it failed due to a server being down. 🤪\n",
+				"date_published": "2020-11-14T20:02:05+09:00",
+				"url": "https://mikro5.cogley.info/2020/11/14/tried-apples-maps.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2020/11/13/upgraded-to-macos.html",
 				
 				"content_html": "<p>Upgraded to MacOS Big Sur today, and it looks great. Love the design. 😎</p>\n",
