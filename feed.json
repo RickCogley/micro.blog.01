@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2020/12/06/macos-big-sur.html",
+				
+				"content_html": "<p>macOS Big Sur has some good aspects but, its external display handling is buggy, and spotlight is worse functionally. 😒</p>\n",
+				"content_text": "macOS Big Sur has some good aspects but, its external display handling is buggy, and spotlight is worse functionally. 😒\n",
+				"date_published": "2020-12-06T13:50:26+09:00",
+				"url": "https://mikro5.cogley.info/2020/12/06/macos-big-sur.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2020/12/02/even-if-you.html",
+				
+				"content_html": "<p>Even if you don&rsquo;t know it, you probably use @letsencrypt, a non-profit that provides over 200 million (!) TLS certificates to websites for free. I use them in my systems and donate, and hopefully you might too. 💝  <a href=\"https://letsencrypt.org/donate/\">letsencrypt.org/donate/</a></p>\n",
+				"content_text": "Even if you don't know it, you probably use @letsencrypt, a non-profit that provides over 200 million (!) TLS certificates to websites for free. I use them in my systems and donate, and hopefully you might too. 💝  [letsencrypt.org/donate/](https://letsencrypt.org/donate/)\n",
+				"date_published": "2020-12-02T10:34:28+09:00",
+				"url": "https://mikro5.cogley.info/2020/12/02/even-if-you.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2020/12/01/im-a-fan.html",
+				
+				"content_html": "<p>I&rsquo;m a fan of Just Systems&rsquo; «<a href=\"https://www.youtube.com/watch?v=cDoRi-ra1d4\">ATOK Passport</a>», which is the best way to enter Japanese on Mac, Windows, iOS, Android. It has too many features to mention, but suffice to say it&rsquo;s really helpful even for a non-native Japanese speaker.</p>\n",
+				"content_text": "I'm a fan of Just Systems' «[ATOK Passport](https://www.youtube.com/watch?v=cDoRi-ra1d4)», which is the best way to enter Japanese on Mac, Windows, iOS, Android. It has too many features to mention, but suffice to say it's really helpful even for a non-native Japanese speaker. \n",
+				"date_published": "2020-12-01T09:09:11+09:00",
+				"url": "https://mikro5.cogley.info/2020/12/01/im-a-fan.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2020/11/28/after-about-km.html",
 				
 				"content_html": "<p>After about 500km on my Altra One 3’s, I tried a bunch of new models and settled on Topo Magnifly 3. Love them; zero drop with just enough padding. New Altra misses the mark and I couldn’t get past the exaggerated padding of Hoka.</p>\n",
