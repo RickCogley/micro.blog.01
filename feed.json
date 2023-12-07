@@ -7,10 +7,101 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2023/12/08/japan-marks-dec.html",
+				
+				"content_html": "<p>Japan marks Dec 8 as “Start of the Pacific War Day” although we don’t really hear about it that much. May all those who died at Pearl Harbor and after, rest in peace. 😔</p>\n",
+				"content_text": "Japan marks Dec 8 as “Start of the Pacific War Day” although we don’t really hear about it that much. May all those who died at Pearl Harbor and after, rest in peace. 😔\n\n",
+				"date_published": "2023-12-08T03:00:00+09:00",
+				"url": "https://cogley.jp/2023/12/08/japan-marks-dec.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/07/rip-norman-lear.html",
+				
+				"content_html": "<p>RIP Norman Lear whose work shaped my childhood. 101! Such influence; a life well lived. 🖤🤍</p>\n",
+				"content_text": "RIP Norman Lear whose work shaped my childhood. 101! Such influence; a life well lived. 🖤🤍\n\n",
+				"date_published": "2023-12-07T03:35:05+09:00",
+				"url": "https://cogley.jp/2023/12/07/rip-norman-lear.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/07/dec-is-world.html",
+				
+				"content_html": "<p>Dec 7 is World <a href=\"https://www.kamishibai-ikaja.com/en/kamishibai-eng.html\">Kamishibai</a> Day! It’s the art of telling a story to children while showing cards mounted in a box, popularized in Japan in the 1930s. Have you seen it or something similar? 🇯🇵👩‍👩‍👧‍👦</p>\n",
+				"content_text": "Dec 7 is World [Kamishibai](https://www.kamishibai-ikaja.com/en/kamishibai-eng.html) Day! It’s the art of telling a story to children while showing cards mounted in a box, popularized in Japan in the 1930s. Have you seen it or something similar? 🇯🇵👩‍👩‍👧‍👦\n\n",
+				"date_published": "2023-12-07T02:55:06+09:00",
+				"url": "https://cogley.jp/2023/12/07/dec-is-world.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/06/andme-confirmed-the.html",
+				
+				"content_html": "<p>23andMe <a href=\"https://arstechnica.com/tech-policy/2023/12/hackers-stole-ancestry-data-of-6-9-million-users-23andme-finally-confirmed/\">confirmed the leak of 6.9 million users</a>’ ancestry data. That’s just stunningly bad. You’d think they’d have superior cyber security but no, they’re only just now getting around to requiring 2FA. 😱</p>\n",
+				"content_text": "23andMe [confirmed the leak of 6.9 million users](https://arstechnica.com/tech-policy/2023/12/hackers-stole-ancestry-data-of-6-9-million-users-23andme-finally-confirmed/)’ ancestry data. That’s just stunningly bad. You’d think they’d have superior cyber security but no, they’re only just now getting around to requiring 2FA. 😱\n\n",
+				"date_published": "2023-12-06T07:25:28+09:00",
+				"url": "https://cogley.jp/2023/12/06/andme-confirmed-the.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/06/atsuta-horaiken-is.html",
+				
+				"content_html": "<p>Atsuta Horaiken is a famous eel shop in Nagoya since 1873. Two hour wait, and 3100 yen for lunch in 2011! The servers looked bored, but were chatting, pretty in their pajama-like purple kimono uniforms. 📷🇯🇵</p>\n<p><img src=\"https://cogley.jp/uploads/2023/6f49eefe-8497-4a37-a327-322eea0c6eb5.jpeg\" alt=\"Unagi shop servers wearing purple kimono chatting while waiting for something to do. \"></p>\n",
+				"content_text": "Atsuta Horaiken is a famous eel shop in Nagoya since 1873. Two hour wait, and 3100 yen for lunch in 2011! The servers looked bored, but were chatting, pretty in their pajama-like purple kimono uniforms. 📷🇯🇵\n\n![Unagi shop servers wearing purple kimono chatting while waiting for something to do. ](https://cogley.jp/uploads/2023/6f49eefe-8497-4a37-a327-322eea0c6eb5.jpeg)\n\n\n",
+				"date_published": "2023-12-06T04:00:00+09:00",
+				"url": "https://cogley.jp/2023/12/06/atsuta-horaiken-is.html",
+				"tags": ["Japan"]
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/05/besides-it-being.html",
+				
+				"content_html": "<p>Besides it being my sister’s birthday 🥳 it’s also <a href=\"https://www.un.org/en/observances/volunteer-day\">International Volunteer Day</a>. Did you know you can <a href=\"https://app.unv.org/\">volunteer online</a>? 🙋‍♀️🙋‍♂️</p>\n<p><img src=\"https://cogley.jp/uploads/2023/image-2023-12-05-21-22.png\" alt=\"International Volunteer Day logo, with red, green and blue Xs that look like people. \"></p>\n",
+				"content_text": "Besides it being my sister’s birthday 🥳 it’s also [International Volunteer Day](https://www.un.org/en/observances/volunteer-day). Did you know you can [volunteer online](https://app.unv.org/)? 🙋‍♀️🙋‍♂️\n\n![International Volunteer Day logo, with red, green and blue Xs that look like people. ](https://cogley.jp/uploads/2023/image-2023-12-05-21-22.png)\n\n\n",
+				"date_published": "2023-12-05T21:28:22+09:00",
+				"url": "https://cogley.jp/2023/12/05/besides-it-being.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/05/at-my-checkup.html",
+				
+				"content_html": "<p>At my checkup, asked about flu shots this yr, and they had had a cancellation so I jumped on it. Got a garlic and B vitamins shot to counteract the flu shot. Ever had? 💉🦠</p>\n",
+				"content_text": "At my checkup, asked about flu shots this yr, and they had had a cancellation so I jumped on it. Got a garlic and B vitamins shot to counteract the flu shot. Ever had? 💉🦠\n\n",
+				"date_published": "2023-12-05T21:10:34+09:00",
+				"url": "https://cogley.jp/2023/12/05/at-my-checkup.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/05/can-i-get.html",
+				
+				"content_html": "<p>Can I get your PIN? At a 370 yr old wagashi sweets shop in Nagoya called Ryokuchiya Korekiyo, 2011. This person was kindly explaining and answering my many questions. 📷🇯🇵🍡</p>\n<p><img src=\"https://cdn.uploads.micro.blog/8053/2023/8e9956d9-8dd5-4e54-bddd-41ad585e3549.jpeg\" alt=\"Clerk in salmon pink uniform at Japanese sweets shop handing me a credit card scanner. \"></p>\n",
+				"content_text": "Can I get your PIN? At a 370 yr old wagashi sweets shop in Nagoya called Ryokuchiya Korekiyo, 2011. This person was kindly explaining and answering my many questions. 📷🇯🇵🍡\n\n![Clerk in salmon pink uniform at Japanese sweets shop handing me a credit card scanner. ](https://cdn.uploads.micro.blog/8053/2023/8e9956d9-8dd5-4e54-bddd-41ad585e3549.jpeg)\n\n\n",
+				"date_published": "2023-12-05T04:00:00+09:00",
+				"url": "https://cogley.jp/2023/12/05/can-i-get.html",
+				"tags": ["Japan"]
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/04/for-micromonday-id.html",
+				
+				"content_html": "<p>For #<a href=\"https://micro.blog/discover/micromonday\" title=\"Micro Monday\">MicroMonday</a> I’d like to share and thank <a href=\"https://dahlstrand.net/about/\">Sven Dahlstrand</a> (@sod), who is a great help in the m.b forum &amp; makes great posts and plugins. 📅🙏🏻</p>\n",
+				"content_text": "For \\#[MicroMonday](https://micro.blog/discover/micromonday \"Micro Monday\") I’d like to share and thank [Sven Dahlstrand](https://dahlstrand.net/about/) (@sod), who is a great help in the m.b forum & makes great posts and plugins. 📅🙏🏻\n\n",
+				"date_published": "2023-12-04T09:10:32+09:00",
+				"url": "https://cogley.jp/2023/12/04/for-micromonday-id.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/04/in-the-famous.html",
+				
+				"content_html": "<p>In 2010, the famous dept store Matsuya in Ginza Tokyo was wearing a Louis Vuitton livery. 📷🇫🇷</p>\n<p><img src=\"https://cdn.uploads.micro.blog/8053/2023/9ba3fa8e-b1cf-4f1e-a49a-6a98b3972e1a.jpeg\" alt=\"A high end department store’s exterior is decorated with a luxury brand’s name and logo. \"></p>\n",
+				"content_text": "In 2010, the famous dept store Matsuya in Ginza Tokyo was wearing a Louis Vuitton livery. 📷🇫🇷\n\n![A high end department store’s exterior is decorated with a luxury brand’s name and logo. ](https://cdn.uploads.micro.blog/8053/2023/9ba3fa8e-b1cf-4f1e-a49a-6a98b3972e1a.jpeg)\n\n\n",
+				"date_published": "2023-12-04T03:00:00+09:00",
+				"url": "https://cogley.jp/2023/12/04/in-the-famous.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2023/12/03/some-snaps-from.html",
+				
+				"content_html": "<p>Some snaps from a morning jog in Tennozu Isle Shinagawa Tokyo, 2016. It’s a whole feeling to wander among these buildings when there’s nobody around. 📷🏢</p>\n<p><img src=\"https://cdn.uploads.micro.blog/8053/2023/0a4d6588-a355-4903-9f72-c7f898c909fe.jpeg\" alt=\"Approach to Tennozu Isle subway stop in the morning. \"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/8053/2023/2ddfb72b-f435-440f-82c1-1ad61615e06f.jpeg\" alt=\"Building front with escalator tops. \"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/8053/2023/36f5a142-0175-42e2-add9-20d07bcd805d.jpeg\" alt=\"Building plaza complex showing bridges between buildings. \"></p>\n",
+				"content_text": "Some snaps from a morning jog in Tennozu Isle Shinagawa Tokyo, 2016. It’s a whole feeling to wander among these buildings when there’s nobody around. 📷🏢\n\n![Approach to Tennozu Isle subway stop in the morning. ](https://cdn.uploads.micro.blog/8053/2023/0a4d6588-a355-4903-9f72-c7f898c909fe.jpeg)\n\n![Building front with escalator tops. ](https://cdn.uploads.micro.blog/8053/2023/2ddfb72b-f435-440f-82c1-1ad61615e06f.jpeg)\n\n![Building plaza complex showing bridges between buildings. ](https://cdn.uploads.micro.blog/8053/2023/36f5a142-0175-42e2-add9-20d07bcd805d.jpeg)\n\n\n",
+				"date_published": "2023-12-03T08:00:00+09:00",
+				"url": "https://cogley.jp/2023/12/03/some-snaps-from.html",
+				"tags": ["Japan"]
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2023/12/03/dec-rd-is.html",
 				
-				"content_html": "<p>Dec 3rd is “<a href=\"https://www.un.org/en/observances/day-of-persons-with-disabilities\">International Day of Persons with Disabilities</a>” a day to reflect on what you have, and how you can help differently-abled others. 🤗</p>\n<p><img src=\"https://cogley.jp/uploads/2023/02b71329-b518-4a3d-aebb-a82db514a8df.png\" alt=\"UN logo for 3 Dec International Day of Persons with Disabilities, depicting different color arms encircling a person. I think. \"></p>\n",
-				"content_text": "Dec 3rd is “[International Day of Persons with Disabilities](https://www.un.org/en/observances/day-of-persons-with-disabilities)” a day to reflect on what you have, and how you can help differently-abled others. 🤗\n\n![UN logo for 3 Dec International Day of Persons with Disabilities, depicting different color arms encircling a person. I think. ](https://cogley.jp/uploads/2023/02b71329-b518-4a3d-aebb-a82db514a8df.png)\n\n\n",
+				"content_html": "<p>Dec 3rd is “<a href=\"https://www.un.org/en/observances/day-of-persons-with-disabilities\">International Day of Persons with Disabilities</a>” a day to reflect on what you have, and how you can help differently-abled others. 🤗</p>\n<p><img src=\"https://cdn.uploads.micro.blog/8053/2023/02b71329-b518-4a3d-aebb-a82db514a8df.png\" alt=\"UN logo for 3 Dec International Day of Persons with Disabilities, depicting different color arms encircling a person. I think. \"></p>\n",
+				"content_text": "Dec 3rd is “[International Day of Persons with Disabilities](https://www.un.org/en/observances/day-of-persons-with-disabilities)” a day to reflect on what you have, and how you can help differently-abled others. 🤗\n\n![UN logo for 3 Dec International Day of Persons with Disabilities, depicting different color arms encircling a person. I think. ](https://cdn.uploads.micro.blog/8053/2023/02b71329-b518-4a3d-aebb-a82db514a8df.png)\n\n\n",
 				"date_published": "2023-12-03T02:23:44+09:00",
 				"url": "https://cogley.jp/2023/12/03/dec-rd-is.html"
 			},
@@ -25,16 +116,16 @@
 			{
 				"id": "http://rickcogley.micro.blog/2023/12/02/i-liked-this.html",
 				
-				"content_html": "<p>I liked this lettering: not only front to back on the truck but italicized in the opposite from normal manner. Wonder if the tilt is consistent on the left side of the truck. 📷🚛</p>\n<p><img src=\"https://cogley.jp/uploads/2023/4eed10c8-bc90-4449-8533-6b1a054215e0.jpeg\" alt=\"Lettering on a truck side that reads front to back, with an odd way of italicizing. \"></p>\n",
-				"content_text": "I liked this lettering: not only front to back on the truck but italicized in the opposite from normal manner. Wonder if the tilt is consistent on the left side of the truck. 📷🚛\n\n![Lettering on a truck side that reads front to back, with an odd way of italicizing. ](https://cogley.jp/uploads/2023/4eed10c8-bc90-4449-8533-6b1a054215e0.jpeg)\n\n\n",
+				"content_html": "<p>I liked this lettering: not only front to back on the truck but italicized in the opposite from normal manner. Wonder if the tilt is consistent on the left side of the truck. 📷🚛</p>\n<p><img src=\"https://cdn.uploads.micro.blog/8053/2023/4eed10c8-bc90-4449-8533-6b1a054215e0.jpeg\" alt=\"Lettering on a truck side that reads front to back, with an odd way of italicizing. \"></p>\n",
+				"content_text": "I liked this lettering: not only front to back on the truck but italicized in the opposite from normal manner. Wonder if the tilt is consistent on the left side of the truck. 📷🚛\n\n![Lettering on a truck side that reads front to back, with an odd way of italicizing. ](https://cdn.uploads.micro.blog/8053/2023/4eed10c8-bc90-4449-8533-6b1a054215e0.jpeg)\n\n\n",
 				"date_published": "2023-12-02T03:00:00+09:00",
 				"url": "https://cogley.jp/2023/12/02/i-liked-this.html"
 			},
 			{
 				"id": "http://rickcogley.micro.blog/2023/12/01/the-old-are.html",
 				
-				"content_html": "<p>The old are replaced … 📷🚕</p>\n<p><img src=\"https://cogley.jp/uploads/2023/6ce6c38a-6b42-4920-8110-3056ac654c30.jpeg\" alt=\"Older model sedan type taxi from Kokusai Motorcars in Tokyo. \"></p>\n",
-				"content_text": "The old are replaced … 📷🚕\n\n![Older model sedan type taxi from Kokusai Motorcars in Tokyo. ](https://cogley.jp/uploads/2023/6ce6c38a-6b42-4920-8110-3056ac654c30.jpeg)\n\n\n",
+				"content_html": "<p>The old are replaced … 📷🚕</p>\n<p><img src=\"https://cdn.uploads.micro.blog/8053/2023/6ce6c38a-6b42-4920-8110-3056ac654c30.jpeg\" alt=\"Older model sedan type taxi from Kokusai Motorcars in Tokyo. \"></p>\n",
+				"content_text": "The old are replaced … 📷🚕\n\n![Older model sedan type taxi from Kokusai Motorcars in Tokyo. ](https://cdn.uploads.micro.blog/8053/2023/6ce6c38a-6b42-4920-8110-3056ac654c30.jpeg)\n\n\n",
 				"date_published": "2023-12-01T02:00:00+09:00",
 				"url": "https://cogley.jp/2023/12/01/the-old-are.html",
 				"tags": ["Japan"]
