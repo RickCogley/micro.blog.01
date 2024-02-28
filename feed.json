@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2024/02/29/the-other-day.html",
+				
+				"content_html": "<p>The other day in Otemachi of all places, I saw a group of 3 or 4 teen boys carving up a parking garage entrance on skateboards. It was jarring to see that in that area. 🛹</p>\n",
+				"content_text": "The other day in Otemachi of all places, I saw a group of 3 or 4 teen boys carving up a parking garage entrance on skateboards. It was jarring to see that in that area. 🛹\n\n",
+				"date_published": "2024-02-29T04:55:45+09:00",
+				"url": "https://cogley.jp/2024/02/29/the-other-day.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2024/01/26/with-the-release.html",
 				
 				"content_html": "<p>With the release of Apple iOS 17.3 comes &ldquo;<a href=\"https://support.apple.com/guide/iphone/use-stolen-device-protection-iph17105538b/ios\">stolen device protection</a>&rdquo; (盗難デバイスの保護), in Settings, Face/TouchID &amp; Passcode. Tap &ldquo;Turn on Protection&rdquo; to require biometrics with no passcode fallback, if your iPhone is outside familiar locations. Slick! 🙅‍♂️😈</p>\n",
