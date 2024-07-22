@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2024/07/16/ive-been-wearing.html",
+				
+				"content_html": "<p>I&rsquo;ve been wearing &ldquo;barefoot&rdquo; shoes for jogging for a few years now, and decided to try these <a href=\"https://xeroshoes.com/shop/sandals/h-trail-men/\">Xero H-Trail</a> running sandals. Wore them this AM on a 3km jog on various surfaces, and they worked well even in the rain. The key was to not grip the toe post too much and to stay relaxed. 🏃</p>\n",
+				"content_text": "I've been wearing \"barefoot\" shoes for jogging for a few years now, and decided to try these [Xero H-Trail](https://xeroshoes.com/shop/sandals/h-trail-men/) running sandals. Wore them this AM on a 3km jog on various surfaces, and they worked well even in the rain. The key was to not grip the toe post too much and to stay relaxed. 🏃 \n",
+				"date_published": "2024-07-16T15:12:43+09:00",
+				"url": "https://cogley.jp/2024/07/16/ive-been-wearing.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2024/07/16/my-us-drivers.html",
 				
 				"content_html": "<p>My US driver&rsquo;s license is expired so I am getting an International Drivers License to be able to rent a car when I visit. It should be easier than this, but, I just want to say that the process at the police station in Totsuka was super simple, friendly even. 👮</p>\n",
@@ -936,8 +944,8 @@
 			{
 				"id": "http://rickcogley.micro.blog/2023/11/13/ashidavox-st-headphones.html",
 				"title": "AshidaVox ST-31-02 Headphones Microcast",
-				"content_html": "<p>A companion micro-podcast to go with my AshidaVox ST-31-02 Headphones post. 🎙️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A companion micro-podcast to go with my AshidaVox ST-31-02 Headphones post. 🎙️\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/ashidavox-st-31-02-wired-headphones-micro-podcast.mp3\" preload=\"metadata\"><p><a href=\"https://cogley.jp/transcripts/2023/11/13/649.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>A companion micro-podcast to go with my AshidaVox ST-31-02 Headphones post. 🎙️</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "A companion micro-podcast to go with my AshidaVox ST-31-02 Headphones post. 🎙️\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/ashidavox-st-31-02-wired-headphones-micro-podcast.mp3\" preload=\"metadata\">\n\n<a href=\"https://cogley.jp/transcripts/2023/11/13/649.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2023-11-13T09:46:37+09:00",
 				"url": "https://cogley.jp/2023/11/13/ashidavox-st-headphones.html",
 				"tags": ["AudioCog","Articles"]
@@ -1219,8 +1227,8 @@
 			{
 				"id": "http://rickcogley.micro.blog/2023/10/30/195653.html",
 				"title": "Yamanashi Daibosatsurei Hike Microcast",
-				"content_html": "<p>A companion micro-podcast to go with my <a href=\"https://cogley.jp/2023/10/30/yamanashi-daibosatsurei-hike.html\">Yamanashi Daibosatsurei Hike</a> post. 🎙️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A companion micro-podcast to go with my [Yamanashi Daibosatsurei Hike](https://cogley.jp/2023/10/30/yamanashi-daibosatsurei-hike.html) post. 🎙️\r\n\r\n\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/yamanashi-daibosatsurei-hike-podcast.mp3\" preload=\"metadata\"><p><a href=\"https://cogley.jp/transcripts/2023/10/30/616.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>A companion micro-podcast to go with my <a href=\"https://cogley.jp/2023/10/30/yamanashi-daibosatsurei-hike.html\">Yamanashi Daibosatsurei Hike</a> post. 🎙️</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "A companion micro-podcast to go with my [Yamanashi Daibosatsurei Hike](https://cogley.jp/2023/10/30/yamanashi-daibosatsurei-hike.html) post. 🎙️\r\n\r\n\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/yamanashi-daibosatsurei-hike-podcast.mp3\" preload=\"metadata\">\n\n<a href=\"https://cogley.jp/transcripts/2023/10/30/616.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2023-10-30T19:56:53+09:00",
 				"url": "https://cogley.jp/2023/10/30/195653.html",
 				"tags": ["AudioCog","Articles","Japan"]
@@ -1578,8 +1586,8 @@
 			{
 				"id": "http://rickcogley.micro.blog/2023/10/16/ramen-vomit-yakuza.html",
 				"title": "Ramen Vomit Yakuza Incident Microcast",
-				"content_html": "<p>A companion micro podcast to go with my <a href=\"https://cogley.jp/2023/10/13/ramen-vomit-yakuza.html\">Ramen Vomit Yakuza Incident</a> post. 🎙️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A companion micro podcast to go with my [Ramen Vomit Yakuza Incident](https://cogley.jp/2023/10/13/ramen-vomit-yakuza.html) post. 🎙️\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/ramen-vomit-yakuza-incident.mp3\" preload=\"metadata\"><p><a href=\"https://cogley.jp/transcripts/2023/10/16/575.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>A companion micro podcast to go with my <a href=\"https://cogley.jp/2023/10/13/ramen-vomit-yakuza.html\">Ramen Vomit Yakuza Incident</a> post. 🎙️</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "A companion micro podcast to go with my [Ramen Vomit Yakuza Incident](https://cogley.jp/2023/10/13/ramen-vomit-yakuza.html) post. 🎙️\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/ramen-vomit-yakuza-incident.mp3\" preload=\"metadata\">\n\n<a href=\"https://cogley.jp/transcripts/2023/10/16/575.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2023-10-16T17:13:36+09:00",
 				"url": "https://cogley.jp/2023/10/16/ramen-vomit-yakuza.html",
 				"tags": ["AudioCog","Articles","Japan"]
@@ -1686,8 +1694,8 @@
 			{
 				"id": "http://rickcogley.micro.blog/2023/10/12/myojingatake-hike-microcast.html",
 				"title": "Myojingatake Hike Microcast",
-				"content_html": "<p>This is a companion micro podcast for my <a href=\"https://cogley.jp/2023/09/24/hakone-myojingatake-hike.html\">Myojingatake hike</a> in Hakone on 3 Sept 2023. 🎙️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "This is a companion micro podcast for my [Myojingatake hike](https://cogley.jp/2023/09/24/hakone-myojingatake-hike.html) in Hakone on 3 Sept 2023. 🎙️\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/recording-1.mp3\" preload=\"metadata\"><p><a href=\"https://cogley.jp/transcripts/2023/10/13/566.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>This is a companion micro podcast for my <a href=\"https://cogley.jp/2023/09/24/hakone-myojingatake-hike.html\">Myojingatake hike</a> in Hakone on 3 Sept 2023. 🎙️</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "This is a companion micro podcast for my [Myojingatake hike](https://cogley.jp/2023/09/24/hakone-myojingatake-hike.html) in Hakone on 3 Sept 2023. 🎙️\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/recording-1.mp3\" preload=\"metadata\">\n\n<a href=\"https://cogley.jp/transcripts/2023/10/13/566.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2023-10-12T15:52:12+09:00",
 				"url": "https://cogley.jp/2023/10/12/myojingatake-hike-microcast.html",
 				"tags": ["AudioCog","Articles"]
@@ -1695,8 +1703,8 @@
 			{
 				"id": "http://rickcogley.micro.blog/2023/10/12/german-swings-microcast.html",
 				"title": "German Swings Microcast",
-				"content_html": "<p>A companion micro podcast to go with my <a href=\"https://cogley.jp/2023/10/12/german-swings-scare.html\">German Swings post</a>. 🎙️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A companion micro podcast to go with my [German Swings post](https://cogley.jp/2023/10/12/german-swings-scare.html). 🎙️\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/audio.mp3\" preload=\"metadata\"><p><a href=\"https://cogley.jp/transcripts/2023/10/12/561.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>A companion micro podcast to go with my <a href=\"https://cogley.jp/2023/10/12/german-swings-scare.html\">German Swings post</a>. 🎙️</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "A companion micro podcast to go with my [German Swings post](https://cogley.jp/2023/10/12/german-swings-scare.html). 🎙️\n\n<audio controls=\"controls\" src=\"https://cogley.jp/uploads/2023/audio.mp3\" preload=\"metadata\">\n\n<a href=\"https://cogley.jp/transcripts/2023/10/12/561.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2023-10-12T15:10:35+09:00",
 				"url": "https://cogley.jp/2023/10/12/german-swings-microcast.html",
 				"tags": ["AudioCog","Articles"]
