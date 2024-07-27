@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2024/07/27/if-you-use.html",
+				
+				"content_html": "<p>If you use a Yubikey for MFA for your Apple Id: it failed for me during the install of a new Mac (rejected the correct PIN), so I opted to setup later. When I did so, MacOS raised an error about the Yubikey being a keyboard, so I resolved that first, then was able to setup Apple Id. 🤷🏼‍♂️</p>\n",
+				"content_text": "If you use a Yubikey for MFA for your Apple Id: it failed for me during the install of a new Mac (rejected the correct PIN), so I opted to setup later. When I did so, MacOS raised an error about the Yubikey being a keyboard, so I resolved that first, then was able to setup Apple Id. 🤷🏼‍♂️\n",
+				"date_published": "2024-07-27T11:53:03+09:00",
+				"url": "https://cogley.jp/2024/07/27/if-you-use.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/07/22/jogged-about-km.html",
+				
+				"content_html": "<p>Jogged about 13km from Totsuka to Kamakura in the Xero H-Trail sandals on Saturday early AM, then used the shower facilities at <a href=\"http://www.powersports.co.jp/clubhouse/\">OSJ Shonan Club House</a> before meeting A for lunch. Convenient, and they had a full range of Altra shoes! 🚿</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Jogged about 13km from Totsuka to Kamakura in the Xero H-Trail sandals on Saturday early AM, then used the shower facilities at [OSJ Shonan Club House](http://www.powersports.co.jp/clubhouse/) before meeting A for lunch. Convenient, and they had a full range of Altra shoes! 🚿\r\n\r\n \n\n<img src=\"uploads/2024/img-6612.jpg\" width=\"450\" height=\"600\" alt=\"Kamakura OSJ Sports clubhouse sign, white letters on orange background\"><img src=\"uploads/2024/img-6610.jpg\" width=\"450\" height=\"600\" alt=\"Kamakura beach looking from OSJ Shonan Clubhouse area, under a perfect blue sky\">\n",
+				"date_published": "2024-07-22T15:31:02+09:00",
+				"url": "https://cogley.jp/2024/07/22/jogged-about-km.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/07/22/had-my-hugo.html",
+				
+				"content_html": "<p>Had my hugo build scripts all break at once, because of some deprecations. Fortunately an easy fix. ⚙</p>\n",
+				"content_text": "Had my hugo build scripts all break at once, because of some deprecations. Fortunately an easy fix. ⚙\n",
+				"date_published": "2024-07-22T15:21:07+09:00",
+				"url": "https://cogley.jp/2024/07/22/had-my-hugo.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2024/07/16/ive-been-wearing.html",
 				
 				"content_html": "<p>I&rsquo;ve been wearing &ldquo;barefoot&rdquo; shoes for jogging for a few years now, and decided to try these <a href=\"https://xeroshoes.com/shop/sandals/h-trail-men/\">Xero H-Trail</a> running sandals. Wore them this AM on a 3km jog on various surfaces, and they worked well even in the rain. The key was to not grip the toe post too much and to stay relaxed. 🏃</p>\n",
@@ -26,7 +50,7 @@
 				"id": "http://rickcogley.micro.blog/2024/07/03/jis-finally-released.html",
 				
 				"content_html": "<p>JIS finally released the Japanese language version of ISO 27002, called &ldquo;<a href=\"https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+27002%3A2024\">JIS Q 27002:2024</a>&rdquo;. This is the guideline to ISO 27001&rsquo;s annex A, a good practice guideline for implementing infosec controls. Now we don&rsquo;t have to rely on beta translations. 🚀</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "JIS finally released the Japanese language version of ISO 27002, called \"[JIS Q 27002:2024](https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+27002%3A2024)\". This is the guideline to ISO 27001's annex A, a good practice guideline for implementing infosec controls. Now we don't have to rely on beta translations. 🚀\n\n<img src=\"uploads/2024/jrc-screenshot-2024-07-03-at-15.04.08.png\" width=\"600\" height=\"570\" alt=\"Screenshot of the JIS Q 27002:2024 cover page.\">\n",
+				"content_text": "JIS finally released the Japanese language version of ISO 27002, called \"[JIS Q 27002:2024](https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+27002%3A2024)\". This is the guideline to ISO 27001's annex A, a good practice guideline for implementing infosec controls. Now we don't have to rely on beta translations. 🚀\n\n<img src=\"https://cdn.uploads.micro.blog/8053/2024/jrc-screenshot-2024-07-03-at-15.04.08.png\" width=\"600\" height=\"570\" alt=\"Screenshot of the JIS Q 27002:2024 cover page.\">\n",
 				"date_published": "2024-07-03T15:05:22+09:00",
 				"url": "https://cogley.jp/2024/07/03/jis-finally-released.html"
 			},
