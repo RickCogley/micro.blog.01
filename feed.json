@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2024/07/31/is-anyone-using.html",
+				
+				"content_html": "<p>Is anyone using breathing techniques like the Wim Hof method or 4-7-8 or box breathing? I&rsquo;m thinking of trying it for a while and wanted to ask anyone&rsquo;s experiences. 🧘🏼</p>\n",
+				"content_text": "Is anyone using breathing techniques like the Wim Hof method or 4-7-8 or box breathing? I'm thinking of trying it for a while and wanted to ask anyone's experiences. 🧘🏼\n",
+				"date_published": "2024-07-31T09:22:33+09:00",
+				"url": "https://cogley.jp/2024/07/31/is-anyone-using.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/07/31/maru-the-shiba.html",
+				
+				"content_html": "<p>Maru the Shiba doesn&rsquo;t recently run around like a crazed mongrel after his walk, but today he ran around like a crazed mongrel after his walk. Of course we encouraged it; always good for a laugh. 🐾💨</p>\n",
+				"content_text": "Maru the Shiba doesn't recently run around like a crazed mongrel after his walk, but today he ran around like a crazed mongrel after his walk. Of course we encouraged it; always good for a laugh. 🐾💨\n",
+				"date_published": "2024-07-31T06:59:28+09:00",
+				"url": "https://cogley.jp/2024/07/31/maru-the-shiba.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/07/30/some-snaps-from.html",
+				
+				"content_html": "<p>Some snaps from a night strolling and eating in Shinjuku Tokyo, a few years back. 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Some snaps from a night strolling and eating in Shinjuku Tokyo, a few years back. 📷\r\n\r\n\n\n<img src=\"uploads/2024/shinjuku-walk-20170613-jrc695.jpg\" width=\"600\" height=\"399\" alt=\"A display case is filled with various vintage cameras, each labeled with price tags.\"><img src=\"uploads/2024/shinjuku-walk-20170613-jrc723.jpg\" width=\"600\" height=\"399\" alt=\"A restaurant worker stands near a counter, wearing a white uniform and a colorful scarf around her neck.\"><img src=\"uploads/2024/shinjuku-walk-20170613-jrc744.jpg\" width=\"400\" height=\"600\" alt=\"A dimly lit street scene at night features an illuminated sign reading &quot;TRATTORIA&quot; alongside silhouettes of people walking.\"><img src=\"uploads/2024/shinjuku-walk-20170613-jrc757.jpg\" width=\"400\" height=\"600\" alt=\"People are walking through a well-lit hallway under a sign that reads &quot;NEWoman Food Hall&quot;.\">\n",
+				"date_published": "2024-07-30T20:47:30+09:00",
+				"url": "https://cogley.jp/2024/07/30/some-snaps-from.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/07/27/maru-the-shiba.html",
+				
+				"content_html": "<p>Maru the Shiba looking cool on a hot summer day 😎</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Maru the Shiba looking cool on a hot summer day 😎\n\n<img src=\"uploads/2024/img-6628.jpg\" width=\"450\" height=\"600\" alt=\"A dog wearing sunglasses and a yellow scarf with green stars stands in front of a door.\"><img src=\"uploads/2024/img-6629.jpg\" width=\"450\" height=\"600\" alt=\"A dog wearing sunglasses and a yellow scarf with stars licks its nose while standing in front of a building entrance.\"><img src=\"uploads/2024/img-6630.jpg\" width=\"450\" height=\"600\" alt=\"A dog wearing sunglasses and a colorful scarf stands indoors near a door.\">\n",
+				"date_published": "2024-07-27T12:09:37+09:00",
+				"url": "https://cogley.jp/2024/07/27/maru-the-shiba.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2024/07/27/if-you-use.html",
 				
 				"content_html": "<p>If you use a Yubikey for MFA for your Apple Id: it failed for me during the install of a new Mac (rejected the correct PIN), so I opted to setup later. When I did so, MacOS raised an error about the Yubikey being a keyboard, so I resolved that first, then was able to setup Apple Id. 🤷🏼‍♂️</p>\n",
@@ -50,7 +82,7 @@
 				"id": "http://rickcogley.micro.blog/2024/07/03/jis-finally-released.html",
 				
 				"content_html": "<p>JIS finally released the Japanese language version of ISO 27002, called &ldquo;<a href=\"https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+27002%3A2024\">JIS Q 27002:2024</a>&rdquo;. This is the guideline to ISO 27001&rsquo;s annex A, a good practice guideline for implementing infosec controls. Now we don&rsquo;t have to rely on beta translations. 🚀</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "JIS finally released the Japanese language version of ISO 27002, called \"[JIS Q 27002:2024](https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+27002%3A2024)\". This is the guideline to ISO 27001's annex A, a good practice guideline for implementing infosec controls. Now we don't have to rely on beta translations. 🚀\n\n<img src=\"https://cdn.uploads.micro.blog/8053/2024/jrc-screenshot-2024-07-03-at-15.04.08.png\" width=\"600\" height=\"570\" alt=\"Screenshot of the JIS Q 27002:2024 cover page.\">\n",
+				"content_text": "JIS finally released the Japanese language version of ISO 27002, called \"[JIS Q 27002:2024](https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Q+27002%3A2024)\". This is the guideline to ISO 27001's annex A, a good practice guideline for implementing infosec controls. Now we don't have to rely on beta translations. 🚀\n\n<img src=\"uploads/2024/jrc-screenshot-2024-07-03-at-15.04.08.png\" width=\"600\" height=\"570\" alt=\"Screenshot of the JIS Q 27002:2024 cover page.\">\n",
 				"date_published": "2024-07-03T15:05:22+09:00",
 				"url": "https://cogley.jp/2024/07/03/jis-finally-released.html"
 			},
