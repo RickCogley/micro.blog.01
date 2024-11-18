@@ -7,10 +7,52 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2024/11/18/went-with-friend.html",
+				
+				"content_html": "<p>Went with friend Dave to see the Drum Corps Japan Championship at Carlos Ghohn Memorial Stadium 😅 as he calls it (aka Nissan Stadium), and it was a fantastic long day of great performances. Even the really small corps were excellent, employing creative solutions to their size challenges. 🎼</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Went with friend Dave to see the Drum Corps Japan Championship at Carlos Ghohn Memorial Stadium 😅 as he calls it (aka Nissan Stadium), and it was a fantastic long day of great performances. Even the really small corps were excellent, employing creative solutions to their size challenges. 🎼\n\n<img src=\"uploads/2024/img-6976.jpg\" width=\"600\" height=\"450\" alt=\"A photograph of promotional material for a snare drum and an event titled &quot;DCJ 2024 ALL JAPAN CHAMPIONSHIPS,&quot; featuring a champagne glass and a ticket.\">\n",
+				"date_published": "2024-11-18T11:15:27+09:00",
+				"url": "https://cogley.jp/2024/11/18/went-with-friend.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/11/08/blueskys-at-protocol.html",
+				
+				"content_html": "<p>Bluesky&rsquo;s &ldquo;AT Protocol&rdquo; for identity is cool. I <a href=\"https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial\">set up my handle</a> as <a href=\"https://cogley.jp\">@cogley.jp</a> in one easy step using a TXT record in DNS. Slick! 😎</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bluesky's \"AT Protocol\" for identity is cool. I [set up my handle](https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial) as [@cogley.jp](https://cogley.jp) in one easy step using a TXT record in DNS. Slick! 😎\n\n<img src=\"uploads/2024/jrc-screenshot-2024-11-08-at-17.56.58.png\" width=\"600\" height=\"567\" alt=\"Screenshot of Rick Cogley's bluesky profile, with his handle set as cogley.jp, a custom domain.\">\n",
+				"date_published": "2024-11-08T17:58:24+09:00",
+				"url": "https://cogley.jp/2024/11/08/blueskys-at-protocol.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/11/08/we-installed-a.html",
+				
+				"content_html": "<p>We installed a physical security system in May. After telling the client yesterday during a conversation about extended warranty that &ldquo;security panels don&rsquo;t really break very often&rdquo;, of course THIS AM the security panel is failing and we are scrambling. From my lips to God&rsquo;s ears?! 🚨</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We installed a physical security system in May. After telling the client yesterday during a conversation about extended warranty that \"security panels don't really break very often\", of course THIS AM the security panel is failing and we are scrambling. From my lips to God's ears?! 🚨\n\n<img src=\"uploads/2024/scott-webb-yekglpc3vro-unsplash.jpg\" width=\"600\" height=\"400\" alt=\"From Scott Webb on Unsplash. Two surveillance cameras are mounted on a gray concrete wall with visible wiring.\">\n",
+				"date_published": "2024-11-08T09:37:46+09:00",
+				"url": "https://cogley.jp/2024/11/08/we-installed-a.html",
+				"tags": ["Management"]
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/11/07/maru-the-shiba.html",
+				
+				"content_html": "<p>Maru the Shiba was &ldquo;helping&rdquo; Akko read the paper this AM. Cuteness overload every day. 🐕</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Maru the Shiba was \"helping\" Akko read the paper this AM. Cuteness overload every day. 🐕\n\n<img src=\"uploads/2024/img-6957.jpg\" width=\"450\" height=\"600\" alt=\"A person is sitting on the floor reading a newspaper beside a dog lying down on top of the paper, while a television nearby shows a basketball game.\">\n",
+				"date_published": "2024-11-07T22:11:57+09:00",
+				"url": "https://cogley.jp/2024/11/07/maru-the-shiba.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/11/07/lately-were-building.html",
+				
+				"content_html": "<p>Lately we&rsquo;re building websites in the fantastic «<a href=\"https://lume.land/\">Lume ルメ</a>» by <a href=\"https://oscarotero.com/\">Óscar Otero</a>, and using its companion <a href=\"https://lume.land/cms/\">CMS</a> to make editing easier for users. The CMS runs on Deno Deploy, or in a VPS like those from Digital Ocean and the latter provides an awesome live preview capability. 🚀</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lately we're building websites in the fantastic «[Lume ルメ](https://lume.land/)» by [Óscar Otero](https://oscarotero.com/), and using its companion [CMS](https://lume.land/cms/) to make editing easier for users. The CMS runs on Deno Deploy, or in a VPS like those from Digital Ocean and the latter provides an awesome live preview capability. 🚀\n\n<img src=\"uploads/2024/jrc-screenshot-2024-11-07-at-21.06.33.png\" width=\"337\" height=\"600\" alt=\"A screenshot of Lume CMS, a content management system interface showing fields for editing a page, including title, description, language, and draft settings with an option to upload an image and input text content.\">\n",
+				"date_published": "2024-11-07T21:09:12+09:00",
+				"url": "https://cogley.jp/2024/11/07/lately-were-building.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2024/10/31/happy-halloween-everyone.html",
 				
 				"content_html": "<p>Happy Halloween everyone! My wife got me a frankenstein wagashi. She trying to say something?! 🎃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy Halloween everyone! My wife got me a frankenstein wagashi. She trying to say something?! 🎃\n\n<img src=\"uploads/2024/halloween-wagashi.jpg\" width=\"450\" height=\"600\" alt=\"A wagashi dessert shaped like a green frankenstein monster face with chocolate eyes and red-tinted cheeks sits on a black tray.\">\n",
+				"content_text": "Happy Halloween everyone! My wife got me a frankenstein wagashi. She trying to say something?! 🎃\n\n<img src=\"https://cdn.uploads.micro.blog/8053/2024/halloween-wagashi.jpg\" width=\"450\" height=\"600\" alt=\"A wagashi dessert shaped like a green frankenstein monster face with chocolate eyes and red-tinted cheeks sits on a black tray.\">\n",
 				"date_published": "2024-10-31T21:36:08+09:00",
 				"url": "https://cogley.jp/2024/10/31/happy-halloween-everyone.html"
 			},
@@ -18,7 +60,7 @@
 				"id": "http://rickcogley.micro.blog/2024/10/31/what-an-exciting.html",
 				
 				"content_html": "<p>What an exciting World Series! Congrats to the Dodgers (Shohei&rsquo;s wish came true), better luck next time to the Yankees. The games were so exciting, you couldn&rsquo;t assume anything. Freeman&rsquo;s performance will be the stuff of schoolboy dreams. When&rsquo;s the season opener again?! ⚾️🍾</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What an exciting World Series! Congrats to the Dodgers (Shohei's wish came true), better luck next time to the Yankees. The games were so exciting, you couldn't assume anything. Freeman's performance will be the stuff of schoolboy dreams. When's the season opener again?! ⚾️🍾\n\n<img src=\"uploads/2024/dodgers-world-series-win.jpeg\" width=\"441\" height=\"266\" alt=\"Two baseball players in Dodgers uniforms are celebrating during a game.\">\n",
+				"content_text": "What an exciting World Series! Congrats to the Dodgers (Shohei's wish came true), better luck next time to the Yankees. The games were so exciting, you couldn't assume anything. Freeman's performance will be the stuff of schoolboy dreams. When's the season opener again?! ⚾️🍾\n\n<img src=\"https://cdn.uploads.micro.blog/8053/2024/dodgers-world-series-win.jpeg\" width=\"441\" height=\"266\" alt=\"Two baseball players in Dodgers uniforms are celebrating during a game.\">\n",
 				"date_published": "2024-10-31T13:05:59+09:00",
 				"url": "https://cogley.jp/2024/10/31/what-an-exciting.html"
 			},
@@ -34,7 +76,7 @@
 				"id": "http://rickcogley.micro.blog/2024/10/10/we-cleaned-and.html",
 				
 				"content_html": "<p>We cleaned and prepped our old house over the last 2 months preparing for guests who had got free air tickets. Turns out those were “standby” ones and they couldn’t come. 🥲</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We cleaned and prepped our old house over the last 2 months preparing for guests who had got free air tickets. Turns out those were “standby” ones and they couldn’t come. 🥲\n\n\n\n<img src=\"uploads/2024/bf37823202.jpg\" width=\"450\" height=\"600\" alt=\"A windowsill in a “genkan” entrance features a hand made &quot;Welcome&quot; sign with origami decorations and a small diffuser placed beside it.\">\n",
+				"content_text": "We cleaned and prepped our old house over the last 2 months preparing for guests who had got free air tickets. Turns out those were “standby” ones and they couldn’t come. 🥲\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/8053/2024/bf37823202.jpg\" width=\"450\" height=\"600\" alt=\"A windowsill in a “genkan” entrance features a hand made &quot;Welcome&quot; sign with origami decorations and a small diffuser placed beside it.\">\n",
 				"date_published": "2024-10-10T03:53:00+09:00",
 				"url": "https://cogley.jp/2024/10/10/we-cleaned-and.html"
 			},
