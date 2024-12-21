@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2024/12/21/been-doing-the.html",
+				
+				"content_html": "<p>Been doing the &ldquo;big tidy&rdquo; for the past couple of weekends. Today was about changing the sink filter, cleaning the range hood, sprinkling weed killer, and lubing up the rollers and hinges in the house. 🏡🧹</p>\n",
+				"content_text": "Been doing the \"big tidy\" for the past couple of weekends. Today was about changing the sink filter, cleaning the range hood, sprinkling weed killer, and lubing up the rollers and hinges in the house. 🏡🧹\n",
+				"date_published": "2024-12-21T20:19:34+09:00",
+				"url": "https://cogley.jp/2024/12/21/been-doing-the.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2024/12/20/i-read-this.html",
+				
+				"content_html": "<p>I read this a while back, and it is worth a re-read: <a href=\"https://micro.blog/books/9780375725609\">The Devil in the White City</a> by Erik Larson 📚</p>\n",
+				"content_text": "I read this a while back, and it is worth a re-read: [The Devil in the White City](https://micro.blog/books/9780375725609) by Erik Larson 📚\n",
+				"date_published": "2024-12-20T08:57:33+09:00",
+				"url": "https://cogley.jp/2024/12/20/i-read-this.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2024/12/16/i-found-out.html",
 				
 				"content_html": "<p>I found out I have a library card I can use with <a href=\"https://libbyapp.com\">Libby</a>, so I took advantage and checked out <a href=\"https://micro.blog/books/9780802190468\">Kitchen</a> by Banana Yoshimoto. Kudos to translator Megan Backus, who managed to evoke the right emotions. 📚</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://rickcogley.micro.blog/2024/12/09/i-for-one.html",
 				
 				"content_html": "<p>I for one am just glad I could <a href=\"https://everyuuid.com/\">find that one uuid</a> I had forgot about, containing &lsquo;<strong>beefcade</strong>&rsquo;. 😂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I for one am just glad I could [find that one uuid](https://everyuuid.com/) I had forgot about, containing '**beefcade**'. 😂 \n\n<img src=\"uploads/2024/jrc-cleanshot-microsoft-edge-2024-12-09-092647jst2x.png\" width=\"600\" height=\"309\" alt=\"A webpage titled &quot;Every UUID Dot Com&quot; displays a list of UUIDs with one containing beefcade highlighted and some navigation elements.\">\n",
+				"content_text": "I for one am just glad I could [find that one uuid](https://everyuuid.com/) I had forgot about, containing '**beefcade**'. 😂 \n\n<img src=\"https://cdn.uploads.micro.blog/8053/2024/jrc-cleanshot-microsoft-edge-2024-12-09-092647jst2x.png\" width=\"600\" height=\"309\" alt=\"A webpage titled &quot;Every UUID Dot Com&quot; displays a list of UUIDs with one containing beefcade highlighted and some navigation elements.\">\n",
 				"date_published": "2024-12-09T09:31:38+09:00",
 				"url": "https://cogley.jp/2024/12/09/i-for-one.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://rickcogley.micro.blog/2024/12/08/if-you-code.html",
 				
 				"content_html": "<p>If you code in JavaScript like so many devs do, join me in signing <a href=\"https://bsky.app/profile/tinyclouds.org\">Ryan Dahl&rsquo;s</a> open letter to Oracle, to relinquish the JavaScript trademark. Please read and <a href=\"https://javascript.tm/\">sign (with GitHub) here</a>. 🧐📝</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you code in JavaScript like so many devs do, join me in signing [Ryan Dahl's](https://bsky.app/profile/tinyclouds.org) open letter to Oracle, to relinquish the JavaScript trademark. Please read and [sign (with GitHub) here](https://javascript.tm/). 🧐📝 \n\n<img src=\"uploads/2024/jrc-cleanshot-microsoft-edge-2024-12-08-173133jst2x.png\" width=\"600\" height=\"284\" alt=\"A webpage displays a message about a trademark issue with a list of names and icons showing supporters.\">\n",
+				"content_text": "If you code in JavaScript like so many devs do, join me in signing [Ryan Dahl's](https://bsky.app/profile/tinyclouds.org) open letter to Oracle, to relinquish the JavaScript trademark. Please read and [sign (with GitHub) here](https://javascript.tm/). 🧐📝 \n\n<img src=\"https://cdn.uploads.micro.blog/8053/2024/jrc-cleanshot-microsoft-edge-2024-12-08-173133jst2x.png\" width=\"600\" height=\"284\" alt=\"A webpage displays a message about a trademark issue with a list of names and icons showing supporters.\">\n",
 				"date_published": "2024-12-08T17:40:42+09:00",
 				"url": "https://cogley.jp/2024/12/08/if-you-code.html"
 			},
