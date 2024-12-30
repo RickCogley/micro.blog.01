@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2024/12/25/got-a-kindle-paperwhite-signature.html",
+				
+				"content_html": "<p>Got a Kindle Paperwhite Signature Edition, but unfortunately it&rsquo;s not possible to transfer old Kindle book purchases I made a long time ago in the US, to my main Japan-based Amazon account. The Paperwhite e-ink tech is fantastic, but it&rsquo;s annoying to have to pay twice. 😤</p>\n",
+				"content_text": "Got a Kindle Paperwhite Signature Edition, but unfortunately it's not possible to transfer old Kindle book purchases I made a long time ago in the US, to my main Japan-based Amazon account. The Paperwhite e-ink tech is fantastic, but it's annoying to have to pay twice. 😤 \n",
+				"date_published": "2024-12-25T08:01:52+09:00",
+				"url": "https://cogley.jp/2024/12/25/got-a-kindle-paperwhite-signature.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2024/12/21/been-doing-the.html",
 				
 				"content_html": "<p>Been doing the &ldquo;big tidy&rdquo; for the past couple of weekends. Today was about changing the sink filter, cleaning the range hood, sprinkling weed killer, and lubing up the rollers and hinges in the house. 🏡🧹</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://rickcogley.micro.blog/2024/12/11/i-like-the.html",
 				
 				"content_html": "<p>I like the <a href=\"https://monokai.pro\">Monokai Pro</a> VS Code theme enough to have paid for it, and my eyes are thanking me. Good stuff from <a href=\"https://wimer.frl/\">Wimer Hazenberg</a>, and you can read about its interesting history <a href=\"https://monokai.pro/history\">here</a>! 👨🏼‍💻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I like the [Monokai Pro](https://monokai.pro) VS Code theme enough to have paid for it, and my eyes are thanking me. Good stuff from [Wimer Hazenberg](https://wimer.frl/), and you can read about its interesting history [here](https://monokai.pro/history)! 👨🏼‍💻\n\n<img src=\"uploads/2024/jrc-cleanshot-code-2024-12-11-080615jst2x.png\" width=\"600\" height=\"328\" alt=\"A code editor window displays JavaScript code using the Monokai Pro theme for VS Code, with a file explorer sidebar against a scenic landscape background.\">\n",
+				"content_text": "I like the [Monokai Pro](https://monokai.pro) VS Code theme enough to have paid for it, and my eyes are thanking me. Good stuff from [Wimer Hazenberg](https://wimer.frl/), and you can read about its interesting history [here](https://monokai.pro/history)! 👨🏼‍💻\n\n<img src=\"https://cdn.uploads.micro.blog/8053/2024/jrc-cleanshot-code-2024-12-11-080615jst2x.png\" width=\"600\" height=\"328\" alt=\"A code editor window displays JavaScript code using the Monokai Pro theme for VS Code, with a file explorer sidebar against a scenic landscape background.\">\n",
 				"date_published": "2024-12-11T08:14:42+09:00",
 				"url": "https://cogley.jp/2024/12/11/i-like-the.html"
 			},
