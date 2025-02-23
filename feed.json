@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2025/02/23/had-a-local-disaster-prevention.html",
+				
+				"content_html": "<p>Had a local disaster prevention event today. A civil servant / volunteer fireman said we should not assume Yokohama city will prepare enough food or supplies, and that we need to ready our own. A sobering thought! 🧯🚒</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Had a local disaster prevention event today. A civil servant / volunteer fireman said we should not assume Yokohama city will prepare enough food or supplies, and that we need to ready our own. A sobering thought! 🧯🚒\n\n<img src=\"uploads/2025/b894d4a2fd.jpg\" width=\"450\" height=\"600\" alt=\"A signboard at a school serving as an evacuation area provides information about earthquake-resistant water supply in Japanese.\"><img src=\"uploads/2025/8c3caeab08.jpg\" width=\"600\" height=\"450\" alt=\"A concrete emergency water dispensing station with three metal faucets and a sign, located outdoors near a tree and fenced area, at a disaster evacuation center in Yokohama Japan. \">\n",
+				"date_published": "2025-02-23T20:38:27+09:00",
+				"url": "https://cogley.jp/2025/02/23/had-a-local-disaster-prevention.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2025/02/20/if-you-do-any-system.html",
+				
+				"content_html": "<p>If you do any system admin and use the terminal, <a href=\"https://starship.rs/\">starship.rs</a> is a really easy value add. For instance if you&rsquo;re in a vps that just has bash installed, running the starship installer gets you a decent prompt in 10 sec.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If you do any system admin and use the terminal, [starship.rs](https://starship.rs/) is a really easy value add. For instance if you're in a vps that just has bash installed, running the starship installer gets you a decent prompt in 10 sec. \n\n<img src=\"uploads/2025/jrc-cleanshot-ghostty-2025-02-20-162900jst2x.png\" width=\"600\" height=\"391\" alt=\"A terminal window displays a Git status check showing a clean working tree on branch &quot;main&quot; with Starship prompt information and prompts.\">\n",
+				"date_published": "2025-02-20T16:32:04+09:00",
+				"url": "https://cogley.jp/2025/02/20/if-you-do-any-system.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2025/02/19/webtoolboxdev-is-an-excellent-convenient.html",
+				
+				"content_html": "<p><a href=\"https://web-toolbox.dev/\">Web-toolbox.dev</a> is an excellent &amp; convenient bilingual English/Japanese site for web devs by <a href=\"https://twitter.com/k_urtica\">K</a> (thanks!), with various tools for generation, encoding, SEO, text. 🛠️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[Web-toolbox.dev](https://web-toolbox.dev/) is an excellent & convenient bilingual English/Japanese site for web devs by [K](https://twitter.com/k_urtica) (thanks!), with various tools for generation, encoding, SEO, text. 🛠️\n\n<img src=\"uploads/2025/jrc-cleanshot-microsoft-edge-2025-02-19-110503jst2x.png\" width=\"600\" height=\"243\" alt=\"A website displaying a Base64 encoding tool is shown with Chinese text being converted to Base64 format.\">\n",
+				"date_published": "2025-02-19T11:06:16+09:00",
+				"url": "https://cogley.jp/2025/02/19/webtoolboxdev-is-an-excellent-convenient.html"
+			},
+			{
+				"id": "http://rickcogley.micro.blog/2025/02/18/i-want-to-learn-more.html",
+				
+				"content_html": "<p>I want to learn more about storytelling, and <a href=\"https://micro.blog/books/9781400333844\">The Perfect Story</a> by Karen Eber 📚 has been great so far. The author posted on LinkedIn about a new Japanese translation, which you can find <a href=\"https://pub.jmam.co.jp/book/b657138.html\">here</a>.</p>\n",
+				"content_text": "I want to learn more about storytelling, and [The Perfect Story](https://micro.blog/books/9781400333844) by Karen Eber 📚 has been great so far. The author posted on LinkedIn about a new Japanese translation, which you can find [here](https://pub.jmam.co.jp/book/b657138.html). \n",
+				"date_published": "2025-02-18T10:36:41+09:00",
+				"url": "https://cogley.jp/2025/02/18/i-want-to-learn-more.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2025/02/18/i-searched-on-the-word.html",
 				
 				"content_html": "<p>I searched on the word &ldquo;Hygge&rdquo; after eating lunch at a cafe called that, and found this cozy little book on the topic: <a href=\"https://micro.blog/books/9780062658814\">The Little Book of Hygge: Danish Secrets to Happy Living (The Happiness Institute Series)</a> by Meik Wiking 📚</p>\n",
@@ -18,7 +50,7 @@
 				"id": "http://rickcogley.micro.blog/2025/02/16/our-dog-goes-to-daycare.html",
 				
 				"content_html": "<p>Our dog goes to daycare with a big unit of a black lab, whose human is French, so I decided to compile a <a href=\"https://cogley.jp/dog-commands/\">French dog command</a> list, with Japanese and English, to try to communicate next time we meet. Assis! 🐾</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our dog goes to daycare with a big unit of a black lab, whose human is French, so I decided to compile a [French dog command](https://cogley.jp/dog-commands/) list, with Japanese and English, to try to communicate next time we meet. Assis! 🐾\n\n<img src=\"uploads/2025/jrc-cleanshot-microsoft-edge-2025-02-16-112855jst2x.png\" width=\"600\" height=\"569\" alt=\"A black labrador and a Shiba Inu are lying on the floor next to each other.\">\n",
+				"content_text": "Our dog goes to daycare with a big unit of a black lab, whose human is French, so I decided to compile a [French dog command](https://cogley.jp/dog-commands/) list, with Japanese and English, to try to communicate next time we meet. Assis! 🐾\n\n<img src=\"https://cdn.uploads.micro.blog/8053/2025/jrc-cleanshot-microsoft-edge-2025-02-16-112855jst2x.png\" width=\"600\" height=\"569\" alt=\"A black labrador and a Shiba Inu are lying on the floor next to each other.\">\n",
 				"date_published": "2025-02-16T11:30:58+09:00",
 				"url": "https://cogley.jp/2025/02/16/our-dog-goes-to-daycare.html"
 			},
@@ -26,7 +58,7 @@
 				"id": "http://rickcogley.micro.blog/2025/02/14/happy-valentines-day-special-chocolate.html",
 				
 				"content_html": "<p>Happy Valentine’s Day 😍 special chocolate from Blue Cacao!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy Valentine’s Day 😍 special chocolate from Blue Cacao!\n\n<img src=\"uploads/2025/be3406e758.jpg\" width=\"600\" height=\"440\" alt=\"A box of assorted chocolates is placed beside a dark gift bag labeled &quot;BLUE CACAO.&quot;\">\n",
+				"content_text": "Happy Valentine’s Day 😍 special chocolate from Blue Cacao!\n\n<img src=\"https://cdn.uploads.micro.blog/8053/2025/be3406e758.jpg\" width=\"600\" height=\"440\" alt=\"A box of assorted chocolates is placed beside a dark gift bag labeled &quot;BLUE CACAO.&quot;\">\n",
 				"date_published": "2025-02-14T20:57:55+09:00",
 				"url": "https://cogley.jp/2025/02/14/happy-valentines-day-special-chocolate.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://rickcogley.micro.blog/2025/01/31/went-to-kanda-daimyojin-shrine.html",
 				
 				"content_html": "<p>Went to Kanda Daimyojin shrine to receive New Year blessings for my firm eSolia. You fill a fill a form, tell what blessings you want (we chose business success and employee health), wear a special sash around your neck, and attend a 15 min ceremony. Let&rsquo;s go! ⛩️🙏🏻</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Went to Kanda Daimyojin shrine to receive New Year blessings for my firm eSolia. You fill a fill a form, tell what blessings you want (we chose business success and employee health), wear a special sash around your neck, and attend a 15 min ceremony. Let's go! ⛩️🙏🏻\n\n<img src=\"uploads/2025/img-7208.jpg\" width=\"450\" height=\"600\" alt=\"A group of people walk towards a Tokyo shrine's traditional torii gate adorned with banners at a bustling street entrance.\"><img src=\"uploads/2025/img-7209.jpg\" width=\"450\" height=\"600\" alt=\"A gilded and ornate portable shrine is displayed in a glass-fronted case on a sunny street.\">\n",
+				"content_text": "Went to Kanda Daimyojin shrine to receive New Year blessings for my firm eSolia. You fill a fill a form, tell what blessings you want (we chose business success and employee health), wear a special sash around your neck, and attend a 15 min ceremony. Let's go! ⛩️🙏🏻\n\n<img src=\"https://cdn.uploads.micro.blog/8053/2025/img-7208.jpg\" width=\"450\" height=\"600\" alt=\"A group of people walk towards a Tokyo shrine's traditional torii gate adorned with banners at a bustling street entrance.\"><img src=\"https://cdn.uploads.micro.blog/8053/2025/img-7209.jpg\" width=\"450\" height=\"600\" alt=\"A gilded and ornate portable shrine is displayed in a glass-fronted case on a sunny street.\">\n",
 				"date_published": "2025-01-31T11:24:25+09:00",
 				"url": "https://cogley.jp/2025/01/31/went-to-kanda-daimyojin-shrine.html"
 			},
