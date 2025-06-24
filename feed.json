@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://rickcogley.micro.blog/2025/06/24/i-use-git-and-git.html",
+				
+				"content_html": "<p>I use git and git clients daily, and a recent one I really like is the fast and featureful <a href=\"https://fork.dev/\">fork</a>. It&rsquo;s available for MacOS or Windows, and &ldquo;just works&rdquo;. ⋔⌨️⋔</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I use git and git clients daily, and a recent one I really like is the fast and featureful [fork](https://fork.dev/). It's available for MacOS or Windows, and \"just works\". ⋔⌨️⋔\n\n<img src=\"uploads/2025/jrc-cleanshot-fork-2025-06-24-203033jst2x.png\" width=\"600\" height=\"475\" alt=\"A computer screen displays a version control interface with a list of commits and selected commit details, including the author and a message.\">\n",
+				"date_published": "2025-06-24T20:32:54+09:00",
+				"url": "https://cogley.jp/2025/06/24/i-use-git-and-git.html"
+			},
+			{
 				"id": "http://rickcogley.micro.blog/2025/06/18/japan-visitors-its-supposed-to.html",
 				
 				"content_html": "<p>Japan visitors, it&rsquo;s supposed to be rainy season, but instead we have a <a href=\"https://www.wbgt.env.go.jp/en/sp/alert.php\">heat stroke alert</a> in Kanto. Take it seriously, stay cool, don&rsquo;t push too hard! 🥵</p>\n",
